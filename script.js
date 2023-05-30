@@ -1,3 +1,4 @@
+alert('Hello guys!! :)))');
 (function(){
     var global = this;
     var globalName = 'starField';
